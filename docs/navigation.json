@@ -1,0 +1,23 @@
+[
+  {
+    "id": "Introduction",
+    "type": "item",
+    "href": "docs/intro.md"
+  },
+  {
+    "id": "Tutorial",
+    "type": "folder",
+    "children": [
+      {
+        "id": "Create page",
+        "type": "item",
+        "href": "docs/tutorial-basics/create-a-page.md"
+      },
+      {
+        "id": "Create blog post",
+        "type": "item",
+        "href": "docs/tutorial-basics/create-a-blog-post.md"
+      }
+    ]
+  }
+]
