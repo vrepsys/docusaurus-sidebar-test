@@ -1,34 +1,17 @@
 [
   {
-    "id": "Introduction",
+    "label": "Introduction",
     "type": "item",
     "href": "intro.md"
   },
   {
-    "id": "Guides",
+    "label": "Tutorial",
     "type": "folder",
     "children": [
       {
-        "id": "Create page",
+        "label": "Create page",
         "type": "item",
         "href": "tutorial-basics/create-a-page.md"
-      },
-      {
-        "id": "Deploy site",
-        "type": "item",
-        "href": "tutorial-basics/deploy-your-site.md"
-      }
-    ],
-    "collapsed": true
-  },
-  {
-    "id": "Cosmos",
-    "type": "folder",
-    "children": [
-      {
-        "id": "Jupiter",
-        "type": "item",
-        "href": "cosmos/jupiter.mdx"
       }
     ]
   }
