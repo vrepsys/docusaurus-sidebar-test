@@ -10,7 +10,7 @@ type NavItem = {
 
 function toSidebarItem(entry: NavItem) {
   if (entry.type === 'item') {
-    return entry.href!.replace(/\.md$/, '');
+    return entry.href!.replace(/\.mdx?$/, '');
   }
   return {
     type: 'category',
