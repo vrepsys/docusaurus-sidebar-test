@@ -29,6 +29,11 @@
         "label": "Moon",
         "type": "item",
         "href": "moon.mdx"
+      },
+      {
+        "label": "Mars",
+        "type": "item",
+        "href": "space-travel/mars.mdx"
       }
     ]
   }
