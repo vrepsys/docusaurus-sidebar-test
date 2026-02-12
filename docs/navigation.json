@@ -1,0 +1,23 @@
+[
+  {
+    "id": "Introduction",
+    "type": "item",
+    "href": "intro.md"
+  },
+  {
+    "id": "Guides",
+    "type": "folder",
+    "children": [
+      {
+        "id": "Create page",
+        "type": "item",
+        "href": "tutorial-basics/create-a-page.md"
+      },
+      {
+        "id": "Deploy site",
+        "type": "item",
+        "href": "tutorial-basics/deploy-your-site.md"
+      }
+    ]
+  }
+]
