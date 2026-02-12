@@ -7,11 +7,28 @@
   {
     "label": "Tutorial",
     "type": "folder",
+    "collapsed": true,
     "children": [
       {
         "label": "Create page",
         "type": "item",
         "href": "tutorial-basics/create-a-page.md"
+      }
+    ]
+  },
+  {
+    "label": "Space travel",
+    "type": "folder",
+    "children": [
+      {
+        "label": "Jupiter",
+        "type": "item",
+        "href": "cosmos/jupiter.mdx"
+      },
+      {
+        "label": "Moon",
+        "type": "item",
+        "href": "moon.mdx"
       }
     ]
   }
