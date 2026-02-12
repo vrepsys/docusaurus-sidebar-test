@@ -2,21 +2,21 @@
   {
     "id": "Introduction",
     "type": "item",
-    "href": "docs/intro.md"
+    "href": "intro.md"
   },
   {
-    "id": "Tutorial",
+    "id": "Guides",
     "type": "folder",
     "children": [
       {
         "id": "Create page",
         "type": "item",
-        "href": "docs/tutorial-basics/create-a-page.md"
+        "href": "tutorial-basics/create-a-page.md"
       },
       {
-        "id": "Create blog post",
+        "id": "Deploy site",
         "type": "item",
-        "href": "docs/tutorial-basics/create-a-blog-post.md"
+        "href": "tutorial-basics/deploy-your-site.md"
       }
     ]
   }
