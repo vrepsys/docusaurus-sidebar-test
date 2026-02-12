@@ -2,7 +2,7 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 import navigation from './docs/navigation.json';
 
 type NavItem = {
-  id: string;
+  label: string;
   type: 'item' | 'folder';
   href?: string;
   children?: NavItem[];
@@ -14,7 +14,7 @@ function toSidebarItem(entry: NavItem) {
   }
   return {
     type: 'category',
-    label: entry.id,
+    label: entry.label,
     items: (entry.children ?? []).map(toSidebarItem),
   };
 }
