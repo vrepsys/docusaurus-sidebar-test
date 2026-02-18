@@ -1,0 +1,19 @@
+[
+  {
+    "label": "Docs",
+    "type": "tab",
+    "children": [
+      {
+        "label": "Getting Started",
+        "type": "group",
+        "children": [
+          {
+            "label": "Installation",
+            "type": "link",
+            "href": "getting-started/installation.mdx"
+          }
+        ]
+      }
+    ]
+  }
+]
